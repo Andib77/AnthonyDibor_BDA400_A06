@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Name** | Anthony Chuks |
+| **Name** | Anthony Dibor |
 | **Course** | BDA400 – Data Science Tools and Techniques, CDI College |
 | **Assignment** | Assignment 6 – Technical Analysis using R, Visualization Phase (15%) |
 | **Repository** | https://github.com/Andib77/AnthonyDibor_BDA400_A06 |
