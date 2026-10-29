@@ -1,7 +1,7 @@
 # =============================================================================
 #  BDA400 - Data Science Tools and Techniques
 #  Assignment 6 - Technical Analysis using R, Visualization Phase
-#  Author : Anthony Chuks
+#  Author : Anthony Dibor
 #
 #  Portfolio dashboard built with R Shiny. It:
 #    1. Fetches historical stock data (Yahoo Finance by default, with error
