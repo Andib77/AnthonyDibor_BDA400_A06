@@ -5,7 +5,7 @@
 | **Name** | Anthony Chuks |
 | **Course** | BDA400 – Data Science Tools and Techniques, CDI College |
 | **Assignment** | Assignment 6 – Technical Analysis using R, Visualization Phase (15%) |
-| **Repository** | https://github.com/YOUR-USERNAME/AnthonyChuks_BDA400_A06 |
+| **Repository** | https://github.com/Andib77/AnthonyDibor_BDA400_A06 |
 
 ## Project description
 
